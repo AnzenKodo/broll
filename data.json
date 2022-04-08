@@ -1,0 +1,85 @@
+{
+	"name": "AK Blogroll",
+	"description": "",
+	"footer": "",
+	"categories": {
+		"my": [
+			"https://www.goodreads.com/home/index_rss/141100671?key=FiUkMl790frJJ_AzBkUmr5Lu1L7x-YFC6tbEd-UP-WYVfat1",
+			"https://kill-the-newsletter.com/feeds/qq3ts9fz9762hzu9.xml",
+			"https://webmention.io/api/mentions.atom?token=FPX70U-lakrEV1Q0ScZU7A"
+		]
+		"blogs": [
+			"https://understandlegacycode.com/rss.xml",
+			"https://ariadnavigo.xyz/posts/index.xml",
+			"https://www.arp242.net/",
+			"https://cassidyjames.com/",
+			"https://kylepiira.com/feed/",
+			"https://hugotunius.se/feed.xml",
+			"https://danluu.com/atom.xml",
+			"https://yarmo.eu/blog/atom.xml",
+			"https://musings.tychi.me/",
+			"https://dwayne.xyz/rss/all.xml",
+			"https://simbly.me/feed.xml",
+			"https://kevq.uk/feed/",
+			"https://jlelse.blog/.rss",
+			"https://rusingh.com/category/post/article/feed/",
+			"https://tinysubversions.com/feed.xml",
+			"https://mough.xyz/feed",
+			"https://opensourcemusings.com/feed/",
+			"https://pimpmytype.com/feed/",
+			"https://ohhelloana.blog/feed.links.xml",
+			"https://www.sarasoueidan.com/blog/index.xml",
+			"https://ndanes.com/feed.xml",
+			"https://mikestone.me/feed.xml",
+			"https://christine.website/blog.rss",
+			"https://tonsky.me/blog/atom.xml",
+			"https://ianthehenry.com/feed.xml",
+			"https://wordsmith.social/sotolf/feed/",
+			"https://apenwarr.ca/log/rss.php",
+			"https://mmk2410.org/index.xml",
+			"https://drewdevault.com/blog/index.xml",
+			"https://tdarb.org/feed.xml",
+			"https://world.hey.com/dhh/feed.atom",
+			"https://www.worksinprogress.co/feed/",
+			"https://codingitwrong.com/feed.xml",
+			"https://tinyprojects.dev/feed.xml",
+			"https://world.hey.com/jason/feed.atom",
+			"https://chrisburnell.com/feed.xml",
+			"https://stratechery.com/feed/",
+			"https://obsolete29.com/feed/feed.xml",
+			"http://xahlee.info/js/blog.xml",
+			"http://xahlee.info/comp/blog.xml",
+			"http://www.carriehopefletcher.com/feeds/posts/default?alt=rss",
+			"https://www.gatesnotes.com/rss",
+			"https://waitbutwhy.com/feed",
+			"https://www.eugenewei.com/blog?format=rss",
+			"https://robert.winter.ink/feed/",
+			"https://sive.rs/en.atom",
+			"https://markmanson.net/feed"
+		],
+		"newsletters": [
+			"https://noahpinion.substack.com/feed",
+			"https://cprss.s3.amazonaws.com/denoweekly.com.xml",
+			"https://ma.ttias.be/cronweekly/index.xml",
+			"https://gwern.substack.com/feed",
+			"https://gomakethings.com/feed/index.xml",
+			"https://www.trackawesomelist.com/rss.xml",
+			"https://api.npmaddict.com/v1/feeds/daily",
+			"https://tanay.substack.com/feed.xml",
+			"https://weekly.nixos.org/feeds/all.rss.xml"
+		],
+		"podcast": [
+			"https://lexfridman.com/feed/podcast/",
+			"https://feeds.megaphone.fm/ADV2256857693",
+			"https://wakingup.libsyn.com/rss",
+			"https://feeds.feedburner.com/dancarlin/history?format=xml",
+			"https://exponent.fm/feed/",
+			"https://feeds.megaphone.fm/ESP5480008395",
+			"https://sive.rs/podcast.rss",
+			"https://naval.libsyn.com/rss"
+		],
+		"other": [
+			"https://feeds.pinboard.in/rss/secret:c0b516feebde1ead703f/u:obsolete29/t:mikesminutia/"
+		]
+	}
+}
