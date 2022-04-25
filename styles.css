@@ -1,0 +1,51 @@
+:root {
+	--fg-color: var(--fg);
+	--bg-color: var(--bg);
+}
+
+body {
+	background: var(--bg-color);
+	color: var(--fg-color);
+	font-family: var(--font), Arial, sans-serif;
+	font-size: 130%;
+	letter-spacing: .1em;
+	margin: 0 auto;
+	padding: 0 1em;
+	max-width: 30em;
+}
+
+a {
+	color: var(--link-color);
+}
+
+header {
+}
+
+h1 {
+	line-height: .7em;
+}
+
+h2 a {
+	color: var(--font-color);
+	text-decoration: none;
+}
+
+h2:hover::before, h2:focus::before {
+	content: "🔗";
+	font-size: .6em;
+}
+
+h2, h3, h4, h5, h6 {
+	line-height: 0;
+	margin-top: 2em;
+}
+
+.list-meta {
+	text-align: center;
+}
+
+footer {
+	background: black;
+	color: white;
+	text-align: center;
+}

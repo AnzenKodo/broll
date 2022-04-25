@@ -1,18 +1,26 @@
 {
-	"name": "AK Blogroll",
-	"description": "",
-	"footer": "",
-	"categories": {
+	"info": {
+		"name": "AK Blogroll",
+		"description": "Blogroll of AnzenKodo favorite websites.",
+		"footer": "Mabe by <a href='https://AnzenKodo.github.io/AnzenKodo'>AnzenKodo</a> under <a href='https://unlicense.org'>UNLICENSE</a> | <a href='https://github.com/AnzenKodo/broll'>SOURCE</a>"
+	},
+	"style": {
+		"theme_color": "#487df4",
+		"background_color": "#171423",
+		"forground_color": "#c9d1d9",
+		"font": "Markazi Text"
+	},
+	"feeds": {
 		"my": [
 			"https://www.goodreads.com/home/index_rss/141100671?key=FiUkMl790frJJ_AzBkUmr5Lu1L7x-YFC6tbEd-UP-WYVfat1",
 			"https://kill-the-newsletter.com/feeds/qq3ts9fz9762hzu9.xml",
 			"https://webmention.io/api/mentions.atom?token=FPX70U-lakrEV1Q0ScZU7A"
-		]
+		],
 		"blogs": [
 			"https://understandlegacycode.com/rss.xml",
 			"https://ariadnavigo.xyz/posts/index.xml",
-			"https://www.arp242.net/",
-			"https://cassidyjames.com/",
+			"https://www.arp242.net/feed.xml",
+			"https://cassidyjames.com/feed.xml",
 			"https://kylepiira.com/feed/",
 			"https://hugotunius.se/feed.xml",
 			"https://danluu.com/atom.xml",
